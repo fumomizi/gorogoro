@@ -120,16 +120,17 @@ h3 {
 
 
 a.shogi_harbour-link {
-    line-height: 1.2em;
+    display: inline-block;
+    line-height: 1.5em;
     color: #0000;
     text-shadow: 
-      0 0 #000, 
+      0 0 #fff, 
       0 1.2em #708a92;
     overflow: hidden;
     transition: .3s;
   }
   a.shogi_harbour-link:hover {
     text-shadow: 
-      0 -1.2em #000, 
+      0 -1.5em #fff, 
       0 0 #708a92;
   }
