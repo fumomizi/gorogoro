@@ -148,3 +148,9 @@ a.shogi_harbour-link {
   .mt-1 {
     margin-top: 16px;
   }
+
+  strong {
+    background-color: #ba4e45;
+    color: white;
+    padding: 2px 3px;
+}
