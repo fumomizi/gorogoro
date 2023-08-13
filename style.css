@@ -125,16 +125,26 @@ a.shogi_harbour-link {
     color: #0000;
     text-shadow: 
       0 0 #fff, 
-      0 1.5em #ba4e45;
+      0 1.5em #e5edff;
     overflow: hidden;
     transition: .3s;
   }
   a.shogi_harbour-link:hover {
     text-shadow: 
       0 -1.5em #fff, 
-      0 0 #ba4e45;
+      0 0 #e5edff;
+  }
+
+  a.link {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  a.link:hover {
+    color: #e5edff;
+    text-decoration: none;
   }
 
   .mt-1 {
-    margin-top: 8px;
+    margin-top: 16px;
   }
