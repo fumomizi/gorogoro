@@ -13,10 +13,14 @@ body {
 }
 
 header {
-    background-color: #708a92;
     color: #f9f9f9;
     padding: 20px;
     text-align: center;
+
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 main {
@@ -55,4 +59,12 @@ footer {
     color: #ba4e45;
     text-align: center;
     margin: 20px auto;
+}
+
+h1, h2, h3 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
 }
