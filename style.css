@@ -19,6 +19,7 @@ header {
 
 main {
     flex: 1 0 auto;
+    padding: 20px;
 }
 
 #dashboard {
@@ -44,4 +45,12 @@ footer {
     padding: 10px;
     text-align: center;
     flex-shrink: 0;
+}
+
+.prominent {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #3a5a85;
+    text-align: center;
+    margin: 20px auto;
 }
