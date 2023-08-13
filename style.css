@@ -92,12 +92,10 @@ figure {
 img {
     width: 300px;
     height: auto;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 figcaption {
-    font-family: 'Google Sans', sans-serif;
-    font-weight: bold;
     text-align: center;
     color: #333;
     margin-top: 10px;
