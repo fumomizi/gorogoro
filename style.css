@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f2f1e7;
+    background-color: #c4bead;
     color: #333;
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #5b6d5b;
+    background-color: #708a92;
     color: #f9f9f9;
     padding: 20px;
     text-align: center;
@@ -40,7 +40,7 @@ th, td {
 }
 
 footer {
-    background-color: #5b6d5b;
+    background-color: #708a92;
     color: #f9f9f9;
     padding: 10px;
     text-align: center;
@@ -50,7 +50,7 @@ footer {
 .prominent {
     font-size: 1.2em;
     font-weight: bold;
-    color: #5b6d5b;
+    color: #ba4e45;
     text-align: center;
     margin: 20px auto;
 }
