@@ -135,14 +135,16 @@ a.shogi_harbour-link {
       0 0 #e5edff;
   }
 
+  a {
+    text-decoration: none;
+  }
+
   a.link {
     color: #fff;
-    text-decoration: none;
   }
 
   a.link:hover {
     color: #e5edff;
-    text-decoration: none;
   }
 
   .mt-1 {
